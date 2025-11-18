@@ -9,9 +9,9 @@
                       BCSF24M046 - GULSHAN MUSHTAQ
 
 
-================================================================================
+
                             PROJECT OVERVIEW
-================================================================================
+
 
 The Game Store Management System is a console-based program designed to 
 simulate the operations of a digital game store (like Steam or EpicGames).
@@ -25,9 +25,9 @@ The focus of the project is on file handling, arrays, dynamic memory
 allocation, and modular programming through multiple functions.
 
 
-================================================================================
+
                             PROJECT OBJECTIVES
-================================================================================
+
 
 ✓ To demonstrate practical use of structured programming concepts
 ✓ To implement arrays, dynamic memory allocation, and text file handling
@@ -37,9 +37,9 @@ allocation, and modular programming through multiple functions.
 ✓ To design the project so it can easily be converted to OOP later
 
 
-================================================================================
+
                             SYSTEM MODULES
-================================================================================
+
 
 MODULE 1: ADMIN
 ---------------
