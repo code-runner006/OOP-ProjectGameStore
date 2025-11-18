@@ -1,0 +1,396 @@
+Batman: Arkham Knight
+Action
+6500
+Tomb Raider (2013)
+Action
+4200
+Resident Evil 2 Remake
+Horror
+6000
+Marvel's Spider-Man Remastered
+Action
+7500
+Stray
+Adventure
+3200
+Red Dead Redemption 2
+Open-World
+9500
+Ghost of Tsushima
+Action
+9000
+Hogwarts Legacy
+Adventure
+8500
+Days Gone
+Action
+5200
+The Last of Us Part I
+Action
+9000
+Elden Ring
+RPG
+9000
+God of War (2018)
+Action
+7500
+Sekiro: Shadows Die Twice
+Action
+7800
+Valorant
+Online
+0
+Batman: Arkham City
+Action
+5000
+Batman: Arkham Asylum
+Action
+3800
+Tomb Raider: Rise of the Tomb Raider
+Action
+5000
+Tomb Raider: Shadow of the Tomb Raider
+Action
+6000
+Resident Evil 3 Remake
+Horror
+5500
+Resident Evil Village
+Horror
+6500
+Resident Evil 7
+Horror
+4800
+Resident Evil 4 Remake
+Horror
+7000
+Marvel's Spider-Man: Miles Morales
+Action
+6500
+Marvel's Spider-Man 2
+Action
+9000
+Red Dead Redemption
+Action
+5000
+The Last of Us Part II
+Action
+9500
+God of War Ragnarok
+Action
+10000
+Sekiro: GOTY Edition
+Action
+8200
+Apex Legends
+Online
+0
+Counter-Strike 2
+Online
+0
+Fortnite
+Online
+0
+Dota 2
+Online
+0
+PUBG: Battlegrounds
+Online
+0
+Call of Duty: Modern Warfare
+Shooter
+9000
+Call of Duty: Modern Warfare 2
+Shooter
+9500
+Call of Duty: Black Ops Cold War
+Shooter
+8200
+Cyberpunk 2077
+RPG
+8000
+Assassin's Creed Valhalla
+Action
+7500
+Assassin's Creed Odyssey
+Action
+6000
+Assassin's Creed Origins
+Action
+5500
+GTA V
+Open-World
+4500
+GTA IV
+Open-World
+3000
+GTA San Andreas
+Open-World
+1500
+GTA Vice City
+Open-World
+1200
+GTA III
+Open-World
+1000
+Mafia Definitive Edition
+Action
+4500
+Mafia II Definitive Edition
+Action
+3000
+Mafia III
+Action
+3500
+Far Cry 6
+Shooter
+7000
+Far Cry 5
+Shooter
+5000
+Far Cry 4
+Shooter
+3500
+Far Cry 3
+Shooter
+2500
+Watch Dogs Legion
+Action
+6000
+Watch Dogs 2
+Action
+4500
+Watch Dogs 1
+Action
+2500
+Forza Horizon 5
+Racing
+8500
+Forza Horizon 4
+Racing
+6500
+NFS Heat
+Racing
+5500
+NFS Payback
+Racing
+4500
+NFS Rivals
+Racing
+3000
+FIFA 24
+Sports
+8500
+FIFA 23
+Sports
+7500
+FIFA 22
+Sports
+6500
+NBA 2K24
+Sports
+9000
+Rocket League
+Sports
+0
+The Witcher 3
+RPG
+5000
+Skyrim Special Edition
+RPG
+4000
+Fallout 4
+RPG
+3500
+Fallout New Vegas
+RPG
+2500
+Dark Souls III
+RPG
+6000
+Dark Souls II
+RPG
+4500
+Dark Souls Remastered
+RPG
+5000
+Hades
+Roguelike
+2500
+Hollow Knight
+Metroidvania
+1500
+Dead Cells
+Action
+2000
+Ori and the Blind Forest
+Adventure
+2500
+Ori and the Will of the Wisps
+Adventure
+3500
+Cuphead
+Action
+1500
+Inside
+Adventure
+1200
+Limbo
+Adventure
+900
+Little Nightmares
+Horror
+2000
+Little Nightmares II
+Horror
+3000
+Outlast
+Horror
+1500
+Outlast 2
+Horror
+2500
+Amnesia: Rebirth
+Horror
+3000
+Alien: Isolation
+Horror
+3500
+Hellblade: Senua's Sacrifice
+Action
+3000
+Control
+Action
+5000
+Alan Wake Remastered
+Horror
+4500
+Alan Wake II
+Horror
+9000
+METRO Exodus
+Shooter
+5000
+METRO Last Light
+Shooter
+2500
+METRO 2033
+Shooter
+2000
+Battlefield 1
+Shooter
+3500
+Battlefield 4
+Shooter
+2500
+Battlefield V
+Shooter
+4500
+Rainbow Six Siege
+Shooter
+2000
+Titanfall 2
+Shooter
+3000
+Overwatch 2
+Online
+0
+Palworld
+Adventure
+4500
+Stranded Deep
+Survival
+1500
+Subnautica
+Survival
+3000
+Green Hell
+Survival
+2500
+The Forest
+Survival
+2000
+Sons of the Forest
+Survival
+5000
+Terraria
+Sandbox
+1500
+Minecraft Java Edition
+Sandbox
+5000
+Rust
+Survival
+4500
+ARK: Survival Evolved
+Survival
+3000
+Baldur's Gate 3
+RPG
+9000
+Starfield
+RPG
+8500
+Death Stranding
+Action
+4000
+Death Stranding Director's Cut
+Action
+6000
+Hitman 3
+Stealth
+6000
+Hitman 2
+Stealth
+3500
+Hitman Absolution
+Stealth
+1500
+Just Cause 4
+Action
+3000
+Just Cause 3
+Action
+2500
+Dishonored
+Stealth
+2000
+Dishonored 2
+Stealth
+3500
+Prey
+Shooter
+3000
+The Evil Within
+Horror
+2500
+The Evil Within 2
+Horror
+3500
+Outer Wilds
+Adventure
+3000
+The Stanley Parable
+Adventure
+1500
+High On Life
+Shooter
+5000
+Payday 2
+Shooter
+1000
+Left 4 Dead 2
+Shooter
+1500
+BioShock Infinite
+Shooter
+2500
+BioShock Remastered
+Shooter
+2000
+Borderlands 3
+Shooter
+4500
+Borderlands 2
+Shooter
+3000
